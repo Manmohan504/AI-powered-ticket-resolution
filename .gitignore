@@ -23,6 +23,7 @@ data/processed/bm25_docs.pkl
 
 # Project management files
 *.xlsx
+!agile.xlsx
 
 # OS files
 Thumbs.db
