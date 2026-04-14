@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment secrets
+.env
+.env.local
+
+# Runtime databases (regenerated on app start)
+*.db
+
+# Generated vector indexes (rebuild with: python ingest.py)
+data/processed/faiss_index/
+data/processed/bm25_docs.pkl
+
+# Project management files
+*.xlsx
+
+# OS files
+Thumbs.db
+.DS_Store

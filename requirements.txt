@@ -1,0 +1,14 @@
+streamlit
+ollama
+langchain-community
+langchain-text-splitters
+langchain-core
+langchain-experimental
+langchain-ollama
+faiss-cpu
+bcrypt
+pandas
+pypdf
+tqdm
+pymupdf4llm
+rank-bm25
